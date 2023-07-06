@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding07-member-parent/atcrowdfunding17-member-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

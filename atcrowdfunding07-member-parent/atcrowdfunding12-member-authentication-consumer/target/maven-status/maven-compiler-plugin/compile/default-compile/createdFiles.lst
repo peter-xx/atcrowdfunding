@@ -1,0 +1,5 @@
+com\atguigu\crowd\CrowdMainClass.class
+com\atguigu\crowd\controller\PortalController.class
+com\atguigu\crowd\config\ShortMessageProperties.class
+com\atguigu\crowd\controller\MemberController.class
+com\atguigu\crowd\config\CrowdWebMvcConfig.class

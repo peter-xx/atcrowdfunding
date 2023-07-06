@@ -1,0 +1,31 @@
+server:
+  port: 4000
+
+spring:
+  application:
+    name: atguigu-crowd-auth
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    host: 192.168.153.138
+    password: 111111
+  session:
+    store-type: redis
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+
+short:
+  message:
+    host: https://dfsns.market.alicloudapi.com
+    path: /data/send_sms
+    method: post
+    app-code: 9fd25890e3e14d6e8aa6ef499bca3b2c
+    template-id: CST_ptdie100
+
+ribbon:
+  ReadTimeout: 10000
+  ConnectTimeout: 10000
